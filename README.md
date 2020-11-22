@@ -1,2 +1,2 @@
 # structures
-Robert Lfore's oop's, Chapter-Strucutre Solutions
+Robert Lafore's oop's, Chapter-Strucutre Solutions
